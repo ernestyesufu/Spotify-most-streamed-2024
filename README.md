@@ -23,7 +23,6 @@ A Power BI dashboard analyzing the most streamed songs on Spotify in 2024. It pr
 ## 📁 Files Included
 - Dashboard screenshots (![alt text](Spotify-music_performance-dashboard.png),![alt text](Spotify-platform_engagement-dashboard.png), ![alt text](Spotify-explicitness_analysis-dashboard.png), ![alt text](Spotify-song_tooltip-dashboard-1.png).)
 
-[Download the power BI file]
 
 ## Author
 **Ernest Yesufu**
@@ -31,6 +30,6 @@ Data Analyst | SQL, Python, Excel & Power BI
 Based in United Kingdom
 
 ## 🔗 Live Portfolio View
-https://nextoyes99.github.io/ernestyesufu.github.io/
+https://ernestyesufu.github.io/
 
 
